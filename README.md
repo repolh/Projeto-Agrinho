@@ -1,2 +1,4 @@
-# Projeto-Agrinho
-Este site foi criado por Brendo Gumiero Bednartchuk do 3°A técnico em Desemvolvimento de Sistema do Colégio C.C.M Leni Marlene Jacob. O projeto possui imagens retiradas do Google e conta com linguagem HTML e Style.CSS, ele foi feito no Visual Studio Code.
+# Projeto Agrinho 2024 
+
+Este site, desenvolvido por Brendo Gumiero Bednartchuk, aluno do 3° ano  do curso Técnico em Desenvolvimento de Sistemas  do Colégio C.C.M Leni Marlene Jacob, faz parte de sua participação no concurso Agrinho 2024. O projeto, que demonstra habilidades adquiridas no uso de  tecnologias web, utiliza a linguagem HTML para estruturar o conteúdo e o Style.CSS para estilizar as páginas. Brendo  desenvolveu o site  inteiramente no Visual Studio Code, uma plataforma amplamente utilizada por profissionais da área, demonstrando sua preparação e competência técnica.
+Além de contribuir para o concurso  Agrinho 2024, o site conta  com imagens s elecionadas a  partir de  buscas no  Google, que complementam o conteúdo e enriquecem a experiência do usuário. Cada elemento foi cuidadosamente pensado para garantir uma navegação intuitiva e agradável. Este projeto é um exemplo claro da capacidade de Brendo de aplicar conhecimentos teóricos em uma aplicação prática, reforçando sua preparação como um desenvolvedor em formação e destacando seu potencial no contexto do Agrinho 2024.
