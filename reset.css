@@ -1,0 +1,111 @@
+header{  
+    background: #577749;
+   
+    }  
+               
+     nav li {
+     display: inline;
+     margin: 0 0 0 15px;
+    }
+                 
+    nav a {
+        text-transform: uppercase;
+        color: #000000;
+      
+        font-size: 22px;
+     
+        }
+
+              
+nav a:hover{
+color: #C78C19;
+text-decoration: underline;
+}
+             
+             
+             
+ .caixa {
+ position: relative;
+ width: 940px;
+ margin: 0 auto;
+}
+             
+.produtos{
+width: 940px;
+margin: 0 auto;
+padding: 50px 0;
+}
+             
+.produstos h2{
+ font-size: 30px;
+font-weight: bold;
+}
+                
+.produtos li{
+display: inline-block;
+text-align: center;
+width: 30%;
+vertical-align: top;
+border: 2px solid #000000;
+border-radius: 10px;
+}             
+             
+
+                
+main {
+width: 940px;
+margin: 0 auto;
+}
+             
+form{
+margin: 40px 0;
+}
+             
+form label, form legend{
+display:block;
+font-size: 20px;
+margin: 0 0 10px;
+}
+             
+.input-padrão {
+display: block;
+margin: 0 0 20px;
+padding: 10px 25px;
+width: 50%;
+}
+             
+.checkbox{
+ margin:20px 0;
+ }
+.enviar{
+width:40%;
+ padding: 15px 0;
+background: green;
+color: white;
+font-weight: bold;
+font-size: 18px;
+border: none;
+border-radius: 5px;
+transition: 1s all;
+cursor: pointer;
+              
+}
+.enviar:hover{
+background:lightblue;
+transform:scale(2.2);
+}
+.tble{
+margin: 20px 0 40px;
+}
+             
+.thead {
+background: #555555;
+color: rgb(252, 252, 252);
+font-weight: bold;
+}
+             
+td, th {
+border: 1px solid #000000;
+padding: 8px 15px;
+}
+  
